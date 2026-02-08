@@ -14,7 +14,7 @@ This project focuses on analyzing the security risks associated with QR codes an
 ---
 
 ##  Scope of the Project
-- Static and dynamic QR codes  
+- Static and dynamic QR codes 
 - QR codes used in payments, authentication, and marketing  
 - Security risks on mobile devices and web platforms  
 
