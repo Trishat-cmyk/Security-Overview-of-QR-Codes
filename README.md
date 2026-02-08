@@ -1,7 +1,7 @@
 #  Security Analysis and Threat Assessment of QR Codes
 
 ##  Project Overview
-This project focuses on analyzing the security risks associated with QR codes and evaluating common attack techniques used to exploit QR-based systems. It examines how malicious QR codes can be leveraged for phishing (Qishing), malware delivery, fake payment frauds, and unauthorized redirection, while proposing effective mitigation strategies to improve user safety.
+This project focuses on analyzing the security risks associated with QR codes and evaluating common attack techniques used to exploit QR based systems. It examines how malicious QR codes can be leveraged for phishing (Qishing), malware delivery, fake payment frauds, and unauthorized redirection, while proposing effective mitigation strategies to improve user safety.
 
 ---
 
