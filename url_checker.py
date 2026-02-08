@@ -1,5 +1,5 @@
 import re
-import requests # type: ignore
+import requests 
 
 def analyze_url(url):
     print("[INFO] Analyzing URL Security...")
